@@ -1,0 +1,6 @@
+d:\visual_studio_2015\Projects\OneClickBackUpProject\OneClickBackUp\bin\Debug\OneClickBackUp.exe.config
+d:\visual_studio_2015\Projects\OneClickBackUpProject\OneClickBackUp\bin\Debug\OneClickBackUp.exe
+d:\visual_studio_2015\Projects\OneClickBackUpProject\OneClickBackUp\bin\Debug\OneClickBackUp.pdb
+d:\visual_studio_2015\Projects\OneClickBackUpProject\OneClickBackUp\obj\Debug\OneClickBackUp.exe
+d:\visual_studio_2015\Projects\OneClickBackUpProject\OneClickBackUp\obj\Debug\OneClickBackUp.pdb
+d:\visual_studio_2015\Projects\OneClickBackUpProject\OneClickBackUp\obj\Debug\OneClickBackUp.csprojResolveAssemblyReference.cache
